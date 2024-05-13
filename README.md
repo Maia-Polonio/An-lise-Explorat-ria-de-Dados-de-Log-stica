@@ -1,2 +1,2 @@
-# An-lise-Explorat-ria-de-Dados-de-Log-stica
+# Anlise-Exploratria-de-Dados-de-LogIstica
 Otimização de rotas de entrega, alocação de veículos de frota com capacidade limitada.
